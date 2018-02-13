@@ -1,0 +1,25 @@
+{
+  "name": "apps-node",
+  "version": "1.0.0",
+  "description": "Repositório com o conteúdo do curso Aplicações web na prática com Javascript e Node.js da [Udemy](https://www.udemy.com/aplicacoes-web-na-pratica-javascript-nodejs/learn/v4/overview).",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelRocha2015/apps-web-node-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuelRocha2015/apps-web-node-js/issues"
+  },
+  "homepage": "https://github.com/SamuelRocha2015/apps-web-node-js#readme",
+  "dependencies": {
+    "knex": "^0.14.3",
+    "mysql": "^2.15.0",
+    "restify": "^6.3.4",
+    "restify-errors": "^5.0.0"
+  }
+}
